@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pes.materialcolorpicker:library:1.2.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../gradle-6.1.1/caches/transforms-2/files-2.1/3d5ddd448ab0190d72464638f090e3c8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gradle-6.1.1/caches/transforms-2/files-2.1/3d5ddd448ab0190d72464638f090e3c8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../gradle-6.1.1/caches/modules-2/files-2.1/com.pes.materialcolorpicker/library/1.2.4/4d0a348788bcb83960bd7ff9e8a50343d242bcf8/library-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
